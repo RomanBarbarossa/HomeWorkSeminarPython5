@@ -49,6 +49,5 @@ output_str = "house=дом car=машина men=человек tree=дерево
 output_str = tuple(map(make_tuple, output_str.split()))
 print(output_str)
 
-
-
+# 
 
